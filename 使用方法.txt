@@ -1,0 +1,27 @@
+
+什么是Zipalign？什么是Zipaligned？
+http://bbs.ihei5.com/thread-171596-1-1.html
+
+------------------main函数运行配置-------------------
+在项目上右键-->Run as--->RunConfiguration
+选择Arguments
+在Program arguments里面填写如下：
+
+input.apk -config config.xml -out outapkdir/haha -7zip 7za.exe
+
+或者
+input.apk -config config.xml -7zip 7za.exe
+
+----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
